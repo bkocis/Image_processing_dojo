@@ -10,5 +10,9 @@ In case the examples are run from a virtual enviroment, in some occasions if the
 ## Example scripts:
 - Plant green area calculator 
   - detection of a defined HSV colour and calculate its area
+- Color patch shape, size and area retrieval 
 
+## Interesting resources
+The following links point to post, challenges and small project that tackle interesting aspects in the application of computer vison. 
 
+- [Coca-cola can recognition](https://stackoverflow.com/questions/10168686/image-processing-algorithm-improvement-for-coca-cola-can-recognition?rq=1)
